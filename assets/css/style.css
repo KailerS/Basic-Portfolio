@@ -112,6 +112,7 @@ a {
   
 #contact-form li {
     margin-bottom: 10px;
+    list-style: none;
 }
   
 label,
@@ -142,4 +143,5 @@ input[type=submit] {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+    margin: 0 0 30px 40px;
 }
